@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Shayda</h1>
+<h1 align="center">Hi, I'm Shayda 👋</h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/c8/8a/c7/c88ac78ed012b6b98b634297c58c8c8f.gif" width="280">
@@ -9,6 +9,5 @@ Full-Stack Software Engineer 💻
 </p>
 
 <p align="center">
-I’m a full-stack software engineer at Deutsche Bank, working with React, TypeScript, and Java to build and improve internal platforms.  
-I enjoy solving technical problems, delivering reliable systems, and I’m especially interested in product engineering — building software that’s genuinely useful for people.
+Full-stack engineer at Deutsche Bank, where I build internal platforms with React, TypeScript, and Java. I love the challenge of making complex systems feel simple — and I care a lot about building things people actually enjoy using. Always happy to chat about product engineering, good software, or anything in between!
 </p>
