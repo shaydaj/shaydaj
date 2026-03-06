@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I'm Shayda</h1>
 
-<!--
-**shaydaj/shaydaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Full-Stack Engineer 💻  
+React • Java • Python • TypeScript
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+✨ thanks for visiting my profile ✨
+</p>
