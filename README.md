@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Shayda</h1>
+<h1 align="center">Hi 👋 I'm Shayda</h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/c8/8a/c7/c88ac78ed012b6b98b634297c58c8c8f.gif" width="280">
