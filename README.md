@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Shayda</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300"/>
+  <img src="https://i.pinimg.com/originals/c8/8a/c7/c88ac78ed012b6b98b634297c58c8c8f.gif" width="300">
 </p>
 
 <p align="center">
